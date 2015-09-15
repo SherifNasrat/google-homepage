@@ -1,0 +1,62 @@
+.google_logo
+{
+  display:block;
+  position:relative;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:250px;
+
+}
+.search_bar
+{
+	position:relative;
+	display:block;
+	margin-right: auto;
+	margin-left: auto;
+    background-image: url(http://www.gstatic.com/inputtools/images/tia.png);
+    background-repeat:no-repeat;
+    background-position: 10px;
+}
+.search_button
+{
+	border: 1px solid #F5F5F5;
+	height:50px;
+	width:110px;
+  vertical-align:middle;
+  text-align:center;
+  line-height:50px;
+  background-color:#F5F5F5;
+  position:relative;
+  left:750px;
+  margin-top:20px;
+}
+.feeling_lucky_button
+{
+  border: 1px solid #F5F5F5;
+  height:50px;
+  width:110px;
+  vertical-align:middle;
+  text-align:center;
+  line-height:50px;
+  background-color:#F5F5F5;
+  position:relative;
+  left:620px;
+  bottom:50px;
+ 
+}
+.top_menu
+{
+   list-style-type: none;
+   margin:0;
+   padding:0;
+   position: absolute;
+   top:0;
+   bottom:auto;
+   right:0;
+   left:auto;
+ 
+}
+li {
+  display: inline;
+  text-align: center;
+}
